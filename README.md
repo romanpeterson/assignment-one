@@ -20,3 +20,8 @@ https://data.world/romanpeterson/assignment-one-final
 Any known issues or potential issues, such as sources of bias in collection
 
 The issues I had were mainly struggling with some of the coding later in the project that led to time complications that did not allow me to be very happy with my final product. I am working after submitting this because of the deadline to try to better what I hace produced. The other thing was that sometimes when I was searching for things in my code, the output would go blank underneath the columns, or the entire dataset would change after just searching for something within it. It got extremely confusing and my problem solving and debugging was not time efficient or productive. I am still working on this project to try to better my skills for the next assignment.
+
+
+
+I couldn't figure out how to save my dataworld file so here is the link:
+https://data.world/romanpeterson/assignment-one-final/workspace/data-dictionary
